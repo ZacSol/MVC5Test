@@ -27,6 +27,10 @@ public class CustomerController {
     public Customer getCustomerById(@PathVariable Long id){
         return customerService.findCustomerById(id);
     }
+    @RequestMapping(value = "/getCustomerQuery", method = RequestMethod.GET)
+    public Customer getCustomerQuery(@RequestParam("id") Long id){
+        return customerService.findCustomerById(id);
+    }
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)

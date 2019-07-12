@@ -16,7 +16,19 @@ public class Customer {
     private Long id;
     private String firstName;
     private String lastName;
+    private String phone;
+    private String city;
 
-    public void setFirstName(String name) {this.firstName = name;}
-    public void setLastName(String name) {this.lastName = name;}
+    public void setFirstName(String name) {
+        this.firstName = name;
+    }
+    public void setLastName(String name) {
+        this.lastName = name;
+    }
+    public void setPhone(String phone) {
+        this.phone = phone;
+    }
+    public void setCity(String city) {
+        this.city = city;
+    }
 }

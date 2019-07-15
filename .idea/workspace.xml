@@ -2,12 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9464ec0e-c050-4bf9-a4dc-6f2e1dc2caf3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/bootstrap/BootStrapData.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/bootstrap/BootStrapData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/domain/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/bootstrap/BootStrapData.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/bootstrap/BootStrapData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/domain/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/domain/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MVC5Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MVC5Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/spring-mvc-rest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-rest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/SpringMvcRestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/SpringMvcRestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/bootstrap/BootStrapData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/bootstrap/BootStrapData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/controllers/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/controllers/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/domain/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/repositories/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/repositories/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/services/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/services/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/services/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/src/test/java/guru/springframework/springmvcrest/SpringMvcRestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/springframework/springmvcrest/SpringMvcRestApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/META-INF/spring-mvc-rest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/SpringMvcRestApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/bootstrap/BootStrapData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/controllers/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/domain/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/repositories/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/services/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/classes/guru/springframework/springmvcrest/services/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/test-classes/META-INF/spring-mvc-rest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-rest/target/test-classes/guru/springframework/springmvcrest/SpringMvcRestApplicationTests.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring-mvc-rest/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,19 +48,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/bootstrap/BootStrapData.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/bootstrap/BootStrapData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/domain/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="714">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -57,19 +76,15 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="spring-mvc-rest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-mvc-rest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -85,94 +100,6 @@
               <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcrest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcrest" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcrest" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcrest" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVC5Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MVC5Test" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-mvc-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -182,12 +109,17 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-mvc-rest/pom.xml" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zsollecito\Documents\Repos\MVC5Test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,7 +138,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="guru.springframework.springmvcrest.SpringMvcRestApplication" />
-      <module name="spring-mvc-rest" />
+      <module name="MVC5Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -249,9 +181,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -264,7 +197,7 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" />
@@ -276,11 +209,11 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.32889125" />
+      <window_info anchor="right" id="Run" order="8" weight="0.32889125" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/SpringMvcRestApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/SpringMvcRestApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
@@ -291,7 +224,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-mvc-rest/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.8/lombok-1.18.8-sources.jar!/lombok/Setter.java">
@@ -301,23 +234,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/bootstrap/BootStrapData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-mvc-rest/src/main/java/guru/springframework/springmvcrest/domain/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/domain/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/guru/springframework/springmvcrest/bootstrap/BootStrapData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -336,6 +292,19 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-mvc-rest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
